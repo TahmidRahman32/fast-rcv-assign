@@ -1,0 +1,157 @@
+.header {
+   height: 100vh;
+   width: auto;
+   background-image: url('../images/banner/banner2.png');
+}
+
+.banner {
+   text-align: end;
+   padding: 100px;
+}
+
+.title-color {
+   color: forestgreen;
+}
+
+.nennar-title {
+   font-size: 40px;
+   padding-left: 500px;
+}
+
+.banner-description {
+   width: 100%px;
+   padding-left: 500px;
+}
+
+.btn {
+   background-color: darkgreen;
+   padding: 10px 25px;
+   color: aliceblue;
+   border-radius: 8px;
+}
+
+.navber {
+   display: flex;
+   justify-content: space-between;
+   padding: 8px 4px;
+   background-color: darkgreen;
+   align-items: center;
+   border-radius: 8px;
+}
+
+.items {
+   display: flex;
+   padding-right: 50px;
+
+
+}
+
+.item {
+   list-style: none;
+   margin-right: 28px;
+   font-size: x-large;
+   color: aliceblue;
+
+}
+
+.main-page {
+   display: flex;
+   align-items: center;
+}
+
+.main-img {
+   width: 1200px;
+   height: auto;
+}
+
+/* 
+.icons {
+   display: flex;
+   align-items: center;
+   
+   
+}
+
+.icon {} */
+.fave-icons {
+   display: flex;
+   justify-content: space-evenly;
+   padding: 50px 50px;
+   margin-bottom: 50px;
+}
+
+.fave-aicon {
+   margin: 0px;
+   padding: 0px;
+}
+
+.icon-title {
+   margin: 0px;
+}
+
+.gredian-page {
+   width: 1040px;
+   height: 300px;
+   margin: auto;
+   background-image: url("../images/watch.png"), linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 4, 0) 100%);
+   ;
+   background-blend-mode: overlay;
+   border-radius: 10px;
+
+
+}
+
+.dredian-title {
+   color: aliceblue;
+   padding: 100px 0px 0px 80px;
+
+}
+
+.gredian-btn {
+   padding: 10px 30px 10px 30px;
+   color: aliceblue;
+   background-color: darkgreen;
+   border-radius: 8px;
+   margin-left: 80px;
+}
+
+.footer-page {
+   width: 1200px;
+   height: 377px;
+   border-radius: 8px;
+   border: 0px;
+   display: flex;
+   margin-top: 50px;
+   justify-content: center;
+   /* Dark 01 */
+
+   background: #151414;
+}
+
+.footer-title {
+   color: aliceblue;
+   padding: 80px 0px 0px 80px;
+}
+
+.footer-subscribe {
+   color: aliceblue;
+   display: table-column;
+   padding: 80px 80px 80px 80px;
+
+}
+
+.footer-btn {
+   padding: 12px 24px;
+   margin-top: 10px;
+   background-color: darkgreen;
+   color: aliceblue;
+   border-radius: 8px;
+   border: 0px;
+}
+
+.footer-input {
+   width: 250px;
+   height: 34px;
+   border-radius: 5px;
+   padding: 5px;
+}
